@@ -1,1 +1,4 @@
 .venv/
+tests/
+project.toml
+idealista_temp.txt
